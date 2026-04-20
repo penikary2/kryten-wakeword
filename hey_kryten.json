@@ -3,7 +3,7 @@
   "wake_word": "hey_kryten",
   "author": "Tater Totterson",
   "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-AppleSilicon",
-  "model": "hey_kryten.tflite",
+  "model": "https://raw.githubusercontent.com/penikary2/crichton-wakeword/main/hey_kryten.tflite",
   "trained_languages": [
     "en"
   ],
